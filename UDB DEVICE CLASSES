@@ -1,0 +1,33 @@
+Device classes
+Id	Name	Note
+00	(Defined at Interface level)	
+01	Audio	
+02	Communications	
+03	Human Interface Device	
+05	Physical Interface Device	
+06	Imaging	
+07	Printer	
+08	Mass Storage	
+09	Hub	
+0a	CDC Data	
+0b	Chip/SmartCard	
+0d	Content Security	
+0e	Video	
+0f	Personal Healthcare	
+10	Audio/Video	
+11	Billboard	
+12	Type-C Bridge	
+13	Bulk Display	
+14	MCTCP over USB	
+35		
+3c	I3C	
+58	Xbox	
+b1		
+dc	Diagnostic	
+e0	Wireless	
+ef	Miscellaneous Device	
+fe	Application Specific Interface	
+ff	Vendor Specific Class
+
+Live repo at-
+https://usb-ids.gowdy.us/read/UC/
